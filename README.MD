@@ -59,17 +59,7 @@ A stealthy Java-based tool for extracting historical URL data from Wayback Machi
 
 ## 🎨 UI Overview
 
-```
-┌─ Target Input ──────────────────────────────────────┐
-│ [example.com] [Mode Select] [Start Advanced Probe]  │
-├─ Status Bar ────────────────────────────────────────┤
-│ ▸ Receiving data... (Stealth: ACTIVE)               │
-├─ Results Area ──────────────────────────────────────┤
-│ https://example.com/admin.php                       │
-│ https://example.com/config.bak                      │
-│ https://api.example.com/v1/users                    │
-└─────────────────────────────────────────────────────┘
-```
+![ui](https://github.com/hangga/Wayback-GUI/blob/main/Wayback_GUI.gif?raw=true)
 
 ## 📊 Output Example
 
